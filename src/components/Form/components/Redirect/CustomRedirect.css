@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: space-between;
+}
+  
+.link {
+    color: #3b82f6;
+    font-weight: bold;
+}
+  
